@@ -23,7 +23,7 @@
 
 }
 .banner{
-    background-image: url(/images/banner3.png);
+    background-image: url(./images/banner3.png);
     width: 1600px;
     height: 808px;
 }
@@ -108,7 +108,7 @@ margin: bottom 70px;
 }
 .image{
 margin-top: 250px;
-background-image: url(/images/watch.png);
+background-image: url(./images/watch.png);
 width: 1140px;
 height: 300px;
 display: block;
