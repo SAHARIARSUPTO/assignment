@@ -23,7 +23,7 @@
 
 }
 .banner{
-    background-image: url(/images/banner3.png);
+    background-image: url(/banner3.png);
     width: 1600px;
     height: 808px;
 }
@@ -108,7 +108,7 @@ margin: bottom 70px;
 }
 .image{
 margin-top: 250px;
-background-image: url(/images/watch.png);
+background-image: url(/watch.png);
 width: 1140px;
 height: 300px;
 display: block;
@@ -171,6 +171,5 @@ label{
     text-align: center;
     color: #F8F8F8;
     font-size: medium;
-    padding-top: 150
-    px;
+    padding-top: 150px;
 }
